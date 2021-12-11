@@ -25,16 +25,11 @@
 <table align = "left">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=nikitaranaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shaklan2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitaranaa&show_icons=true&locale=en&layout=compact&theme=gotham" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaranaa&theme=gotham" />
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaranaa&theme=gotham" />
-</p>
-<br>
-<hr>
