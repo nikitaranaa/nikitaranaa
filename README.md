@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nikita Rana</h1>
+<h1 align="left">Hola, I'm Nikita Rana! 👋</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaranaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaranaa" /> </p>
