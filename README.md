@@ -14,7 +14,7 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikitar06517246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikitar06517246" height="30" width="40" /></a>
-<a href="https://instagram.com/nikita_ranaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitaranaa" height="30" width="40" /></a>
+<a href="https://instagram.com/nikita_ranaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitaranaa" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="mailto:nikitaranaoffical@gmail.com?subject=Hello%20Nishant,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="nishant-shaklan" width="40" /></a>
 </p>
 
