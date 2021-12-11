@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaranaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaranaa" /> </p>
 <h3 alihn="left">👩‍💻 Welcome to my Hub 🙋‍♀️ </h3>
 <p align = "left">
-🎓 I’m an Tech enthusiast <br>
+🎓 I’m an Tech enthusiast. <br>
 🖥 I m passionate about learning new technologies and frameworks.<br>
-👨‍💻 I’m currently learning Data structure and Alogrithim.<br>
+👨‍💻 I’m currently learning Data Structure and Alogrithim.<br>
 🤝 I’m looking to collaborate with Web Development projects.<br>
 💬 Ask me about C++, C, Php, Html.<br>
 </p>
