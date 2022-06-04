@@ -1,4 +1,4 @@
-<h1 align="left">Hola ,I'm Nikita Rana! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px"> </h1>
+<h1 align="left">Hola ,I'm Nikita Rana! </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitaranaa&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaranaa" /> </p>
