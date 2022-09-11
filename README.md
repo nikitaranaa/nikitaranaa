@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitaranaa" alt="nikitaranaa" /></a> </p>
 
+- 🎓 I’m an Open-Source enthusiast & a junior pursuing my **Bachelors in Electrical Engineering.**
+
 - 🌱 I’m currently learning **Dsa, React.**
 
-- 👯 I’m looking to collaborate on **Web Developments Projects**
+- 👯 I’m looking to collaborate on **Web Developments Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikitaranaa](https://github.com/nikitaranaa)
 
