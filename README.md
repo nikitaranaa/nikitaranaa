@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaranaa&theme=gotham" />
 </p>
 <br>
