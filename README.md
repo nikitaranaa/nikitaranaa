@@ -38,7 +38,11 @@
 </tr>
 </table>
 
-<a href="http://www.github.com/nikitaranaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaranaa&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaranaa&theme=gotham" />
+</p>
+<br>
+<hr>
 
 
 
