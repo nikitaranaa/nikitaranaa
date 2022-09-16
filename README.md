@@ -7,8 +7,6 @@
 
 - 🎓 I’m an Open-Source enthusiast & a junior pursuing my **Bachelors in Electrical Engineering.**
 
-- 🌱 I’m currently learning **Dsa, React.**
-
 - 👯 I’m looking to collaborate on **Web Developments Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikitaranaa](https://github.com/nikitaranaa)
