@@ -39,7 +39,7 @@
 </p>
 
 <br>
-<br>
+
 <h3 align="left">Badges </h3>
 <table align = "left">
 <tr>
