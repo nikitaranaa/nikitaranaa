@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/nikitar06517246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikitar06517246" height="30" width="40" /></a>
 <a href="https://instagram.com/nikita_ranaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita_ranaa" height="30" width="40" /></a>
-<a target="_blank"href="https://www.linkedin.com/in/nikita-rana-6477b21ba/"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shaklan"  height="30" width="40" /></a>&nbsp;
+<a target="_blank"href="https://www.linkedin.com/in/nikita-rana-6477b21ba/"\><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-shaklan"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,8 +40,9 @@
 </p>
 
 <br>
+<br>
 
-<h3 align="left">Badges </h3>
+<h3 align="left">Badges:</h3>
 <table align = "left">
 <tr>
 <td>
