@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2022-09-18 at 2 20 42 PM" src="https://user-images.githubusercontent.com/91747922/190893876-28396ce8-faa7-4b02-8dee-338f8ba8926f.png">
+
 <h1 align="center">Hi 👋, I'm Nikita Rana!</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
