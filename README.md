@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **Web Developments Projects.**
 
+- 🌱 I’m currently learning React and Python.
+
 - 👨‍💻 All of my projects are available at [https://github.com/nikitaranaa](https://github.com/nikitaranaa)
 
 - 📫 Reach me at: **nikitaranaoffical@gmail.com**
