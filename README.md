@@ -6,11 +6,11 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-- 🎓 I’m an Open-Source enthusiast & a student pursuing my **Bachelors in Electrical Engineering.**
+- 🎓 I’m an Open-Source enthusiast & a student pursuing my **Bachelors in Electrical Engineering & Minors in Computer Engineering**
 
 - 👯 I’m looking to collaborate on **Web Developments Projects.**
 
-- 🌱 I’m currently learning React and Python.
+- 🌱 I’m currently learning Python.
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikitaranaa](https://github.com/nikitaranaa)
 
